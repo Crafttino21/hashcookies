@@ -1,0 +1,4 @@
+hashlib
+pygame
+cryptography
+ctypes
